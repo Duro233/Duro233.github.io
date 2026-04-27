@@ -12,8 +12,9 @@ Synchronization mechanisms (queues, semaphores, and mutexes) are used to coordin
 This prototype reflects real-world healthcare systems such as cardiac monitors or wearable health devices, where timing accuracy is essential and missed deadlines could have serious consequences.</p>
 
    <p><strong>Application 6 Demo Video:</strong></p>
-   <p>
-     <a href="https://youtu.be/Y9QWsSdmasw" target="_blank">
-       Watch Demo Video
-     </a>
-   </p>
+   <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/Y9QWsSdmasw"
+      title="Demo Video"
+      frameborder="0"
+      allowfullscreen>
+   </iframe>
