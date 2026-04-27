@@ -1,3 +1,3 @@
 layout: page
 title: "Demo Video"
-permalink: /URL-PATH
+permalink: https://duro233.github.io/pages/demovideo
