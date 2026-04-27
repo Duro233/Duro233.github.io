@@ -1,6 +1,6 @@
 layout: page
 title: "Demo Video"
-permalink: /pages/demovideo
+permalink: https://duro233.github.io/pages/demovideo
 
 <h2>Demo</h2>
 
